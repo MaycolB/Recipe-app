@@ -1,3 +1,82 @@
+# 🍲 App_Recetas
+
+Aplicación web para **gestionar recetas de cocina**. Permite listar, ver, crear, editar y eliminar recetas, todo desarrollado con **React + TypeScript + Vite**.
+Este proyecto forma parte de mi portafolio para practicar y mostrar habilidades en desarrollo frontend.
+
+---
+
+## 📖 Características
+
+* 📌 Listado de recetas con título, imagen y categoría
+* 🔍 Vista detallada de cada receta con ingredientes y pasos
+* ➕ Formulario para crear nuevas recetas
+* ✏️ Edición de recetas existentes
+* ❌ Eliminación de recetas
+* 💾 Persistencia en **LocalStorage**
+* 🎨 Estilos responsive y amigables
+
+---
+
+## 🚀 Instalación y uso
+
+1. Clonar el repositorio:
+
+   ```bash
+   git clone https://github.com/TU-USUARIO/App_Recetas.git
+   cd App_Recetas
+   ```
+
+2. Instalar dependencias:
+
+   ```bash
+   npm install
+   ```
+
+3. Iniciar servidor de desarrollo:
+
+   ```bash
+   npm run dev
+   ```
+
+4. Abrir en el navegador:
+
+   ```
+   http://localhost:5173
+   ```
+
+---
+
+## 🖼️ Screenshots
+
+*(Próximamente añadir capturas del Home y de una receta en detalle)*
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+* ⚛️ [React](https://reactjs.org/)
+* ⌨️ [TypeScript](https://www.typescriptlang.org/)
+* ⚡ [Vite](https://vitejs.dev/)
+* 🎨 CSS / TailwindCSS (opcional)
+
+---
+
+## 📌 Próximas mejoras
+
+* 🔎 Búsqueda de recetas por título o categoría
+* ⭐ Favoritos
+* 🗂️ Filtros por categoría
+* 📱 Mejor experiencia mobile
+
+---
+
+## 👤 Autor
+
+Desarrollado por **Maycol Bustamante**.
+📌 [LinkedIn](#) | 📌 [GitHub](https://github.com/MaycolB)
+
+---
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
