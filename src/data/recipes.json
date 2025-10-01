@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "title": "Ensalada César",
+    "image": "https://via.placeholder.com/150",
+    "category": "Ensalada",
+    "ingredients": ["Lechuga", "Pollo", "Queso parmesano"],
+    "steps": ["Cortar la lechuga", "Añadir pollo", "Agregar parmesano"]
+  },
+  {
+    "id": 2,
+    "title": "Pasta al pesto",
+    "image": "https://via.placeholder.com/150",
+    "category": "Pasta",
+    "ingredients": ["Pasta", "Albahaca", "Aceite de oliva"],
+    "steps": ["Cocer la pasta", "Preparar salsa pesto", "Mezclar y servir"]
+  }
+]
+
