@@ -1,0 +1,63 @@
+/* src/index.css */
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #fafafa;
+}
+
+h1 {
+  color: #37ad16;
+}
+
+h2 {
+  color: #4e2f2f;
+}
+
+h3 {
+  color: #333;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #06820c;
+}
+
+a {
+  color: #07610a;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+header {
+  text-align: center;
+  padding: 2rem 1rem;
+  background-color: #0b2c0d;
+  color: white;
+}
+
+header .title {
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+header .subtitle {
+  margin: 0.5rem 0 0;
+  font-size: 1.2rem;
+}
+
+.recipes-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  padding: 1rem;
+}

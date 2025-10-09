@@ -2,17 +2,21 @@
   {
     "id": 1,
     "title": "Ensalada César",
-    "image": "https://via.placeholder.com/150",
+    "image": "./imagenes/Cesar_Salad.jpg",
     "category": "Ensalada",
+    "description": "Ensalada fresca con pollo y parmesano.",
     "ingredients": ["Lechuga", "Pollo", "Queso parmesano"],
-    "steps": ["Cortar la lechuga", "Añadir pollo", "Agregar parmesano"]
+    "instructions": "Cortar la lechuga. Añadir pollo. Agregar parmesano.",
+    "steps": ["Lavar y cortar la lechuga", "Cocinar el pollo", "Mezclar y servir"]
   },
   {
     "id": 2,
     "title": "Pasta al pesto",
-    "image": "https://via.placeholder.com/150",
+    "image": "./imagenes/pasta_al_pesto.jpg",
     "category": "Pasta",
+    "description": "Pasta con salsa pesto casera.",
     "ingredients": ["Pasta", "Albahaca", "Aceite de oliva"],
+    "instructions": "Cocer la pasta. Preparar salsa pesto. Mezclar y servir.",
     "steps": ["Cocer la pasta", "Preparar salsa pesto", "Mezclar y servir"]
   }
 ]
